@@ -1,0 +1,14 @@
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\bin\Debug\net6.0\FiftyCsharpSolutions.exe
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\bin\Debug\net6.0\FiftyCsharpSolutions.deps.json
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\bin\Debug\net6.0\FiftyCsharpSolutions.runtimeconfig.json
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\bin\Debug\net6.0\FiftyCsharpSolutions.dll
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\bin\Debug\net6.0\FiftyCsharpSolutions.pdb
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\FiftyCsharpSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\FiftyCsharpSolutions.AssemblyInfoInputs.cache
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\FiftyCsharpSolutions.AssemblyInfo.cs
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\FiftyCsharpSolutions.csproj.CoreCompileInputs.cache
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\FiftyCsharpSolutions.dll
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\refint\FiftyCsharpSolutions.dll
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\FiftyCsharpSolutions.pdb
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\FiftyCsharpSolutions.genruntimeconfig.cache
+C:\Users\mvk10208\Dhv\tsks\GithubLearning\fromdesktop\fiftycsharpsolutions\fiftycsharpsolutions\FiftyCsharpSolutions\obj\Debug\net6.0\ref\FiftyCsharpSolutions.dll
